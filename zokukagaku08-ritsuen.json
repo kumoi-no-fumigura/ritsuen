@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ritsuen",
  "yomi": "りつえんわかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "文久3年（1863）3月自序、元治元年（1864）11月刊",
+  "author": "河辺一也",
+  "desc": "忍岡の河辺一也が自分の歌を四季・恋・雑の百首にまとめたもの。日照りに雨を祈って詠んだあと雨が降ったという話も記す。門人が板に彫った。"
+ },
  "editions": [
   {
    "pid": "993386",
